@@ -1,0 +1,8 @@
+--- Nueva Venta ---
+Venta exitosa de: ASUS Gamer Pro | Total: S/4560.0
+Fecha/Hora: 2026-04-29T15:30:00.873667100
+-------------------
+--- Nueva Venta ---
+Venta exitosa de: Windows 11 Pro | Total: S/500.0
+Fecha/Hora: 2026-04-29T15:30:00.875667700
+-------------------
