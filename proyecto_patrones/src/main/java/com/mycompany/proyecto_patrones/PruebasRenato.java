@@ -9,7 +9,6 @@ import model.*;
 
 public class PruebasRenato {
 
-    
     public static void main(String[] args) {
        
         IMetodoPago pago = new PagoTarjeta();
