@@ -5,9 +5,10 @@
     <artifactId>proyecto_patrones</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.release>25</maven.compiler.release>
-        <exec.mainClass>com.mycompany.proyecto_patrones.Proyecto_patrones</exec.mainClass>
+   <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.release>24</maven.compiler.release>
+    <exec.mainClass>com.mycompany.proyecto_patrones.Proyecto_patrones</exec.mainClass>
+    <exec.args>--add-opens java.base/java.lang=ALL-UNNAMED --enable-native-access=ALL-UNNAMED</exec.args>
     </properties>
 </project>

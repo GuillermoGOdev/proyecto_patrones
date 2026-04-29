@@ -1,6 +1,6 @@
 package model;
 
-import DTO.Producto;
+import dto.Producto;
 
 public class Catalogo {
     

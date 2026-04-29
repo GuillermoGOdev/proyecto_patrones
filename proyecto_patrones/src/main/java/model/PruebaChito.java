@@ -1,7 +1,8 @@
 package model;
 
-import DTO.Categoria;
-import DTO.Producto;
+import com.mycompany.proyecto_patrones.service.ProductoService;
+import dto.Categoria;
+import dto.Producto;
 import java.util.List;
 public class PruebaChito {
 
