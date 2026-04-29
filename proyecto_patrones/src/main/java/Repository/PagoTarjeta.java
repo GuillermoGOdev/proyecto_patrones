@@ -10,8 +10,8 @@ public class PagoTarjeta implements IMetodoPago{
         
         // Simulamos una validación lógica
         if (monto > 0) {
-            System.out.println("[Éxito] Se ha procesado el pago de: S/ " + monto);
-            System.out.println("[Transacción] Código de autorización: " + (int)(Math.random() * 1000000));
+            System.out.println("[Exito] Se ha procesado el pago de: S/ " + monto);
+            System.out.println("[Transaccion] Codigo de autorizacion: " + (int)(Math.random() * 1000000));
         } else {
             System.out.println("[Error] El monto debe ser mayor a cero.");
         }

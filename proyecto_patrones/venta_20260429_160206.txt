@@ -1,0 +1,8 @@
+--- Nueva Venta ---
+Venta exitosa de: HP Victus PRO | Total: S/3545.0
+Fecha/Hora: 2026-04-29T16:02:06.058300400
+-------------------
+--- Nueva Venta ---
+Venta exitosa de: Windows 10  | Total: S/350.0
+Fecha/Hora: 2026-04-29T16:02:06.059259700
+-------------------
