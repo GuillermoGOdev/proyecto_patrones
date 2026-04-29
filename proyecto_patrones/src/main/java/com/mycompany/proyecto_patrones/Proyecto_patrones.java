@@ -1,5 +1,5 @@
 package com.mycompany.proyecto_patrones;
-
+//
 import com.mycompany.proyecto_patrones.service.ProductoService;
 import com.mycompany.proyecto_patrones.view.ProductoPrinter;
 import dto.Producto;
