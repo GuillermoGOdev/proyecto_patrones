@@ -11,7 +11,6 @@ public class Proyecto_patrones {
     public static void main(String[] args) {
       
         // Principios SOLID
-        //
         // S: single resposability - Armando
         // O: open-closed - Guillermo
         // L: Liskov - Renato
